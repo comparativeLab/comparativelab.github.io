@@ -31,9 +31,7 @@ github_username:  jekyll
 
 plugins:
   - jekyll-feed
-
-gems:
-- jekyll-seo-tag
+  - jekyll-seo-tag
 
 # Build settings
 theme: alembic-jekyll-theme
