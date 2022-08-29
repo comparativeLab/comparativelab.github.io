@@ -1,0 +1,26 @@
+---
+title: false
+styles: true
+---
+
+
+@font-face {
+    font-family: 'Roboto'; /*a name to be used later*/
+    src: url('RobotoSlab-VariableFont_wght.ttf'); /*URL to font*/
+}
+
+// Typography
+$bodytype: (
+  font-family: "Roboto",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$linkColour: #042440 !default;
+$hoverColour: #005FFB !default;
+$headingColour: #053259 !default;
+
+
+@import "alembic";
