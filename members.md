@@ -8,7 +8,7 @@ permalink: /members/
 # Current Members:
 
 ### Principle Investigator:
-Fumihiro Kano
+Dr. Fumihiro Kano
 
 
 
