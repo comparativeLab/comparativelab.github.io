@@ -37,6 +37,9 @@ plugins:
 remote_theme: daviddarnes/alembic@main
 #theme: alembic-jekyll-theme
 
+include:
+  - "_photos"
+  - "_photos/_members"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -24,3 +24,36 @@ $headingColour: #053259 !default;
 
 
 @import "alembic";
+
+.members_list{
+
+	.members
+	{
+		width: 40%;
+		float: left;
+	
+	 .members_img img{
+		  width: 200px;
+		  margin: auto;
+		  display: block;
+	   }
+	  
+	  .members_name{
+		text-align:center;
+		
+	  }
+	  .members_comment{
+		text-align:center;
+		
+	  }
+	}
+	
+	&:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+
+}
+
