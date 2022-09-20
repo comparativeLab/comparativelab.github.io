@@ -40,6 +40,7 @@ $headingColour: #053259 !default;
 	  
 	  .members_name{
 		text-align:center;
+		font-weight: bold;
 		
 	  }
 	  .members_comment{
@@ -54,6 +55,25 @@ $headingColour: #053259 !default;
 		clear: both;
 	}
 
+
+}
+
+.member_detail{
+	.bio{
+		#intro{
+		  font-size: 18px;
+		  width: 65%;
+		  float: right;
+		  text-align: justify;
+		  display: inline-block;
+		}
+		#bio_img{
+		  display: inline-block;
+		  width: 30%;
+		  float: left;
+		  margin-right: 5%;
+		}
+	}
 
 }
 

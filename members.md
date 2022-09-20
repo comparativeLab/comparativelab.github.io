@@ -4,16 +4,16 @@ title: Members
 permalink: /members/
 ---
 
-# Current Members:
+# Current Members
 
-### Principle Investigator:
+### Principle Investigator
 
 
 
 <div class="members_list">
     <div class="members">
         <div class="members_img">
-        {% include image.html url1="/assets/members/kano_1.jpg" url2="/assets/members/kano_1.jpg"  %}
+        {% include image-hover.html url1="/assets/members_photos/kano_1.jpg" url2="/assets/members_photos/kano_2.jpg"  %}
         </div>
         <div class="members_name">
                 <p>Fumihiro Kano</p>
@@ -28,21 +28,13 @@ permalink: /members/
 ### Postdoctoral Researchers
 
 <div class="members_list">
-    <div class="members">
-        <div class="members_img">
-        {% include image.html url1="/assets/members/michael_1.jpg" url2="/assets/members/michael_1.jpg"  %}
-        </div>
-        <div class="members_name">
-                <p>Michael Chimento</p>
-        </div>
-        <div class=" members_comment">
-                I love tits
-        </div>
-    </div>
+	{% include members.html img1="/assets/members_photos/michael_1.jpg" img2="/assets/members_photos/michael_2.jpg" link="/members/michael" name="Michael Chimento" comment="I love great tits" %}
+
+
 
     <div class="members">
         <div class="members_img">
-        {% include image.html url1="/assets/members/pras_1.jpg" url2="/assets/members/pras_1.jpg"  %}
+        {% include image-hover.html url1="/assets/members_photos/pras_1.jpg" url2="/assets/members_photos/pras_2.jpg"  %}
         </div>
         <div class="members_name">
                 <p>Prasetia Putra</p>
@@ -59,29 +51,10 @@ permalink: /members/
 ### PhD Students
 
 <div class="members_list">
-    <div class="members">
-        <div class="members_img">
-        {% include image.html url1="/assets/members/alex_1.jpg" url2="/assets/members/mathilde_1.jpg"  %}
-        </div>
-        <div class="members_name">
-                <p>Alex Chan</p>
-        </div>
-        <div class=" members_comment">
-                I love pigeons
-        </div>
-    </div>
+	{% include members.html img1="/assets/members_photos/alex_1.jpg" img2="/assets/members_photos/alex_2.jpg" link="/members/alex" name="Alex Chan" comment=" I love pigeons" %}
 
-    <div class="members">
-        <div class="members_img">
-        {% include image.html url1="/assets/members/mathilde_1.jpg" url2="/assets/members/mathilde_1.jpg"  %}
-        </div>
-        <div class="members_name">
-                <p>Mathilde Delacoux</p>
-        </div>
-        <div class=" members_comment">
-                I love pigeons
-        </div>
-    </div>
+	{% include members.html img1="/assets/members_photos/mathilde_1.jpg" img2="/assets/members_photos/mathilde_2.jpg" link="/members/mathilde" name="Mathilde Delacoux" comment=" I love pigeons" %}
+
 </div>
 
 
@@ -92,17 +65,7 @@ permalink: /members/
 ### Masters Students
 
 <div class="members_list">
-    <div class="members">
-        <div class="members_img">
-        {% include image.html url1="/assets/members/varun_1.jpg" url2="/assets/members/varun_1.jpg"  %}
-        </div>
-        <div class="members_name">
-                <p>Varun Kumar</p>
-        </div>
-        <div class=" members_comment">
-                I love monkeys
-        </div>
-    </div>
+	{% include members.html img1="/assets/members_photos/varun_1.jpg" img2="/assets/members_photos/varun_2.jpg" link="/members/varun" name="Varun Kumar" comment="I love monkeys" %}
 
 </div>
 
