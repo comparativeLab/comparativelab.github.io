@@ -11,17 +11,8 @@ permalink: /members/
 
 
 <div class="members_list">
-    <div class="members">
-        <div class="members_img">
-        {% include image-hover.html url1="/assets/members_photos/kano_1.jpg" url2="/assets/members_photos/kano_2.jpg"  %}
-        </div>
-        <div class="members_name">
-                <p>Fumihiro Kano</p>
-        </div>
-        <div class=" members_comment">
-                I love apes
-        </div>
-    </div>
+	{% include members.html img1="/assets/members_photos/kano_1.jpg" img2="/assets/members_photos/kano_2.jpg" link="/members/kano" name="Fumihiro Kano" comment="I love apes" %}
+
 
 </div>
 
@@ -30,19 +21,9 @@ permalink: /members/
 <div class="members_list">
 	{% include members.html img1="/assets/members_photos/michael_1.jpg" img2="/assets/members_photos/michael_2.jpg" link="/members/michael" name="Michael Chimento" comment="I love great tits" %}
 
+	{% include members.html img1="/assets/members_photos/pras_1.jpg" img2="/assets/members_photos/pras_2.jpg" link="/members/pras" name="Prasetia Putra" comment="  I love humans" %}
 
 
-    <div class="members">
-        <div class="members_img">
-        {% include image-hover.html url1="/assets/members_photos/pras_1.jpg" url2="/assets/members_photos/pras_2.jpg"  %}
-        </div>
-        <div class="members_name">
-                <p>Prasetia Putra</p>
-        </div>
-        <div class=" members_comment">
-                I love humans
-        </div>
-    </div>
 </div>
 
 
