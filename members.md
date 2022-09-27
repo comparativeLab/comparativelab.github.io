@@ -11,7 +11,7 @@ permalink: /members/
 
 
 <div class="members_list">
-	{% include members.html img1="/assets/members_photos/kano_1.jpg" img2="/assets/members_photos/kano_2.jpg" link="/members/kano" name="Fumihiro Kano" comment="I love apes" %}
+	{% include members.html img1="/assets/members_photos/kano_1.jpg" img2="/assets/members_photos/kano_2.jpg" link="/members/kano" name="Fumihiro Kano" comment="I love aapes" %}
 
 
 </div>
