@@ -11,7 +11,7 @@ permalink: /members/
 
 
 <div class="members_list">
-	{% include members.html img1="/assets/members_photos/kano_1.jpg" img2="/assets/members_photos/kano_2.jpg" link="/members/kano" name="Fumihiro Kano" comment="I love aapes" %}
+	{% include members.html img1="/assets/members_photos/kano_1.jpg" img2="/assets/members_photos/kano_2.jpg" link="/members/kano" name="Fumihiro Kano" comment="I am a comparative psychologist working with primates (mostly apes and humans) and birds (mostly pigeons and crows)" %}
 
 
 </div>
