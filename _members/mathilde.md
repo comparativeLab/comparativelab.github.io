@@ -8,6 +8,7 @@ permalink: /members/mathilde/
 <div class ="bio">
 <div id ="bio_img">
 {% include image.html url="/assets/members_photos/mathilde_2.jpg"  %}
+{% include email_me.html email="mathilde.delacoux@uni-konstanz.de"  %}
 </div>
 <div id ="intro">
 Hi!

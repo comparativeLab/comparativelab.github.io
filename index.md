@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Home
+permalink: /
 ---
  {% include image-hover.html url1="/assets/welcome_photos/img_1.JPG" url2="/assets/welcome_photos/img_2.JPG"  %}
 

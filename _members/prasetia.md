@@ -8,6 +8,7 @@ permalink: /members/pras/
 <div class ="bio">
 <div id ="bio_img">
 {% include image.html url="/assets/members_photos/pras_2.jpg"  %}
+{% include email_me.html email="prasetia.putra@uni-konstanz.de"  %}
 </div>
 <div id ="intro">
 I am a computer engineer studying human joint action using behavioral and physiological modalities. In my research, I try investigating key components of joint action during sports and social learning.

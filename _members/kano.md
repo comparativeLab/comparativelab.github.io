@@ -8,6 +8,7 @@ permalink: /members/kano/
 <div class ="bio">
 <div id ="bio_img">
 {% include image.html url="/assets/members_photos/kano_2.jpg"  %}
+{% include email_me.html email="fumihiro.kano@uni-konstanz.de"  %}
 </div>
 <div id ="intro">
  I am a comparative psychologist working with primates (mostly apes and humans) and birds (mostly pigeons and crows)
