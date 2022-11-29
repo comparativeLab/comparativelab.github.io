@@ -11,6 +11,10 @@ permalink: /members/alex/
 
 {% include email_me.html email="hoi-hang.chan@uni-konstanz.de"  %}
 
+<p> <a href="https://twitter.com/AlexHHChan">Follow me on Twitter!</a></p>
+
+
+
 </div>
 <div id ="intro">
 I am Alex Chan, a current PhD student in the lab. I am a computational biologist/ behavioural ecologist interested in using machine learning and computer vision techniques to help us study fine scaled animal behaivour.
