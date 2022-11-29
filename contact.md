@@ -11,4 +11,4 @@ Universitätsstraße 10, 78464, University of Konstanz, ZT building 903
 If you are interested in joining the lab, please reach out to Dr. Fumihiro Kano
 
 ### Email:
-fkanou@gmail.com
+fkanou [at] gmail [dot] com
