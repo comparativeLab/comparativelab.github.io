@@ -40,7 +40,7 @@ When people are doing something together, such as playing sports, learning from 
 
 <p align="center"><iframe width="760" height="515" src="https://www.youtube.com/embed/AFi9nraXn1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-#### Markerless 3D Posture Tracking
+#### Markerless 3D Posture Tracking in Birds
 
 With the rapid development of computer vision and machine learning frameworks for animal posture tracking in recent years, tracking animals automatically with the use of video cameras in captivity and the wild is becoming more accessbile. In this project, we take advantage of the motion tracking systems to automatically generate training data for markerless posture tracking in pigeons and crows, with the goal of developing a framework that could reconstruct 3D postures of bird flocks in captivity and the wild. 
 

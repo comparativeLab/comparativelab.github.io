@@ -15,11 +15,6 @@ We are the Comparative Cognition and Sociality Lab, based in the [Centre for the
 <a href= "../contact/#"><button type="button">Contact Us</button></a>
 </p>
 
-<!-- <p float="left" align="top">
-  <img src="/assets/logos/uniK.jpg" width="100" />
-  <img src="/assets/logos/CASCB.png" width="150" /> 
-  <img src="/assets/logos/MPI.jpg" width="100" />
-</p> -->
 {:style="text-align:center;"}
 ![ClusterLogo](/assets/logos/CASCB.png){: width="250"} ![MPILogo](/assets/logos/MPI.jpg){: width="250"} ![UniLogo](/assets/logos/uniK.jpg){: width="200"} 
 
