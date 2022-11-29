@@ -11,7 +11,7 @@ permalink: /members/alex/
 
 {% include email_me.html email="hoi-hang.chan@uni-konstanz.de"  %}
 
-<p> <a href="https://twitter.com/AlexHHChan">Follow me on Twitter!</a></p>
+<p style="color:gray; font-size:90%; text-align:center;"> <a href="https://twitter.com/AlexHHChan">Twitter</a></p>
 
 
 
